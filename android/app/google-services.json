@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "467353713233",
+    "project_id": "kft-group-app",
+    "storage_bucket": "kft-group-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467353713233:android:03f8688f8cb783017ed670",
+        "android_client_info": {
+          "package_name": "com.tkk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467353713233-g1mu2l3fu185j6hr3bnh672hd0phv544.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCADRBIs0L3HapcbuHnfxECEYY_1-7iD8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467353713233-g1mu2l3fu185j6hr3bnh672hd0phv544.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
